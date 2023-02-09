@@ -18,7 +18,7 @@ elif(operator == 2 ):
 elif(operator == 3 ):
     print(opr1*opr2)
 
-elif(operator == 1 ):
+elif(operator == 4 ):
     print(opr1/opr2)
 else:
     print("please enter correct value")
